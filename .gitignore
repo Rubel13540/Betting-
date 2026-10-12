@@ -1,7 +1,0 @@
-.env
-__pycache__/
-*.pyc
-.venv/
-venv/
-*.session
-saved_accounts.json
